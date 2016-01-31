@@ -37,6 +37,7 @@ group :development, :test do
   gem 'byebug'
   gem 'rspec'
   gem 'webrat'
+  gem 'capybara'
 end
 
 group :development do
